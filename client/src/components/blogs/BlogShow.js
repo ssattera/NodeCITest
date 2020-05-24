@@ -27,7 +27,7 @@ class BlogShow extends Component {
       <div>
         <h3>{title}</h3>
         <p>{content}</p>
-        {this.renderImage()}
+        
       </div>
     );
   }
